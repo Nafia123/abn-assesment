@@ -1,18 +1,13 @@
 # abn-assesment
 
-This template should help get you started developing with Vue 3 in Vite.
+Choices: 
+I used tailwind to easily and efficiently add styling to the whole application. Encapsulating the styling to each element, creating readable and easy to change styling with a certain customizable styling.
 
-## Recommended IDE Setup
+Vue.js was used as it was preferred to be used in ABN AMRO Environment
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+TVMazeAPI seems very limited when showing TV-shows without user input. As there is only a search endpoint to get a list of TV-shows. So I have created my own default dashboard dataset to show the user genres and a couple of shows. Clicking on a show or searching for shows will indeed go to the API and fetch Records live. 
 
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Used Atomic Design to easily make clear how big a component is and making it easy for a developer to use and reuse building blocks of components. And being able to create new components using smaller building blocks like Modal or Dialog. With slots a developer can easily re use logic with their own templating. 
 
 ## Project Setup
 
@@ -25,12 +20,9 @@ npm install
 ```sh
 npm run dev
 ```
+And go to http://localhost:5173
 
-### Type-Check, Compile and Minify for Production
 
-```sh
-npm run build
-```
 
 ### Run Unit Tests with [Vitest](https://vitest.dev/)
 
@@ -38,8 +30,3 @@ npm run build
 npm run test:unit
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
