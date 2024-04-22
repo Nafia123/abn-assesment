@@ -1,0 +1,236 @@
+[
+  {
+    "genre": "Action",
+    "id": 1,
+    "items": [
+      {
+        "name": "NCIS",
+        "summary": "<p><b>NCIS</b> (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it\\'s a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald \"Ducky\" Mallard, who knows it all because he\\'s seen it all, and he\\'s not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1254413.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/501/1254413.jpg"
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "id": 60
+      },
+      {
+        "name": "Fallout",
+        "summary": "<p>Based on one of the greatest video game series of all time, <b>Fallout</b> is the story of haves and have nots in a world in which there\\'s almost nothing left to have. 200 years after the apocalypse, a peaceful denizen from a cozy fallout shelter is forced to return to the surface and is shocked to discover the wasteland waiting for her.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/508/1271367.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/508/1271367.jpg"
+        },
+        "rating": {
+          "average": 7.4
+        },
+        "id": 49041
+      },
+      {
+        "name": "S.W.A.T.",
+        "summary": "<p>Shemar Moore stars as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles. Torn between loyalty to where he was raised and allegiance to his brothers in blue, former Marine Daniel \"Hondo\" Harrelson has everything it takes to be an excellent leader and bridge the divide between his two worlds.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/512/1281149.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/512/1281149.jpg"
+        },
+        "rating": {
+          "average": 7.2
+        },
+        "id": 21532
+      },
+      {
+        "name": "NCIS",
+        "summary": "<p><b>NCIS</b> (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it\\'s a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald \"Ducky\" Mallard, who knows it all because he\\'s seen it all, and he\\'s not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1254413.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/501/1254413.jpg"
+        },
+        "rating": {
+          "average": 7.9
+        },
+        "id": 60
+      },
+      {
+        "name": "Fallout",
+        "summary": "<p>Based on one of the greatest video game series of all time, <b>Fallout</b> is the story of haves and have nots in a world in which there\\'s almost nothing left to have. 200 years after the apocalypse, a peaceful denizen from a cozy fallout shelter is forced to return to the surface and is shocked to discover the wasteland waiting for her.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/508/1271367.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/508/1271367.jpg"
+        },
+        "rating": {
+          "average": 7.4
+        },
+        "id": 49041
+      },
+      {
+        "name": "S.W.A.T.",
+        "summary": "<p>Shemar Moore stars as a locally born and raised S.W.A.T. sergeant newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles. Torn between loyalty to where he was raised and allegiance to his brothers in blue, former Marine Daniel \"Hondo\" Harrelson has everything it takes to be an excellent leader and bridge the divide between his two worlds.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/512/1281149.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/512/1281149.jpg"
+        },
+        "rating": {
+          "average": 7.2
+        },
+        "id": 21532
+      }
+    ]
+  },
+  {
+    "genre": "Comedy",
+    "id": 2,
+    "items": [
+      {
+        "name": "The Rookie",
+        "summary": "<p><b>The Rookie</b> is inspired by a true story. John Nolan is the oldest rookie in the LAPD. At an age where most are at the peak of their career, Nolan cast aside his comfortable, small town life and moved to L.A. to pursue his dream of being a cop. Now, surrounded by rookies twenty years his junior, Nolan must navigate the dangerous, humorous and unpredictable world of a \"young\" cop, determined to make his second shot at life count.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262150.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/504/1262150.jpg"
+        },
+        "rating": {
+          "average": 8
+        },
+        "id": 32938
+      },
+      {
+        "name": "Family Guy",
+        "summary": "<p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter\\'s wife, a stay-at-home mom with no patience for her family\\'s antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn\\'t have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies\\' man who is one step away from AA.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/488/1222068.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1222068.jpg"
+        },
+        "rating": {
+          "average": 7.6
+        },
+        "id": 84
+      },
+      {
+        "name": "The Simpsons",
+        "summary": "<p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/488/1222067.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1222067.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 83
+      },
+      {
+        "name": "The Rookie",
+        "summary": "<p><b>The Rookie</b> is inspired by a true story. John Nolan is the oldest rookie in the LAPD. At an age where most are at the peak of their career, Nolan cast aside his comfortable, small town life and moved to L.A. to pursue his dream of being a cop. Now, surrounded by rookies twenty years his junior, Nolan must navigate the dangerous, humorous and unpredictable world of a \"young\" cop, determined to make his second shot at life count.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1262150.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/504/1262150.jpg"
+        },
+        "rating": {
+          "average": 8
+        },
+        "id": 32938
+      },
+      {
+        "name": "Family Guy",
+        "summary": "<p><b>Family Guy</b> follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter\\'s wife, a stay-at-home mom with no patience for her family\\'s antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn\\'t have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies\\' man who is one step away from AA.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/488/1222068.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1222068.jpg"
+        },
+        "rating": {
+          "average": 7.6
+        },
+        "id": 84
+      },
+      {
+        "name": "The Simpsons",
+        "summary": "<p><b>The Simpsons</b> is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/488/1222067.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/488/1222067.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 83
+      }
+    ]
+  },
+  {
+    "genre": "Horror",
+    "id": 3,
+    "items": [
+      {
+        "name": "American Horror Story",
+        "summary": "<p><b>American Horror Story </b>is an horror television anthology series. Each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own beginning, middle, and end. While some actors appear for more than one year, they play completely different roles in each season.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/473/1183640.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1183640.jpg"
+        },
+        "rating": {
+          "average": 7.5
+        },
+        "id": 30
+      },
+      {
+        "name": "The Last of Us",
+        "summary": "<p>After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity\\'s last hope.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253495.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253495.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 46562
+      },
+      {
+        "name": "Stranger Things",
+        "summary": "<p>When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/396/991288.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991288.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 2993
+      },
+      {
+        "name": "American Horror Story",
+        "summary": "<p><b>American Horror Story </b>is an horror television anthology series. Each season is conceived as a self-contained miniseries, following a disparate set of characters and settings, and a storyline with its own beginning, middle, and end. While some actors appear for more than one year, they play completely different roles in each season.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/473/1183640.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/473/1183640.jpg"
+        },
+        "rating": {
+          "average": 7.5
+        },
+        "id": 30
+      },
+      {
+        "name": "The Last of Us",
+        "summary": "<p>After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity\\'s last hope.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/501/1253495.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/501/1253495.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 46562
+      },
+      {
+        "name": "Stranger Things",
+        "summary": "<p>When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.</p>",
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/396/991288.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/396/991288.jpg"
+        },
+        "rating": {
+          "average": 8.1
+        },
+        "id": 2993
+      }
+    ]
+  }
+]
